@@ -1,0 +1,9 @@
+Name : Suresh,
+
+Age  : 23,
+
+Address : Salem,TN,
+
+Unit Used : 250 units,
+
+Total Bill : 1250
